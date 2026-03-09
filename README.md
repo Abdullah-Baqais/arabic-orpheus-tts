@@ -40,15 +40,9 @@ This repository only contains the training/inference code, configuration, and de
 
 ## 🔊 Demos
 
-### Demo 1
-Text:
-> مَرْحَبًا بِكُمْ فِي هَذَا النِّظَامِ الصَّوْتِيِّ الجَدِيدِ
-
-<audio controls>
-  <source src="[demos](https://github.com/Abdullah-Baqais/arabic-orpheus-tts/tree/5eaa313e8ba4c84b9492becb5741664c7d252964/demos/Greetings.wav)" type="audio/wav">
-</audio>
-
----
+- **Any_help.wav** — [Open audio](./demos/Any_help.wav)
+- **Greetings.wav** — [Open audio](./demos/Greetings.wav)
+- **Greetings_2.wav** — [Open audio](./demos/Greetings_2.wav)
 
 ## Fine tuned model
 
