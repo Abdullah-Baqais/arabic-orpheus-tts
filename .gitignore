@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Training outputs
+checkpoints/
+outputs/
+runs/
+logs/
+wandb/
+
+# Large model files
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Audio/data
+data/
+dataset/
+datasets/
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+*.arrow
+
+# Hugging Face / cache
+.cache/
+huggingface/
+hf_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

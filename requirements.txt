@@ -1,0 +1,16 @@
+torch
+torchaudio
+transformers==4.56.2
+datasets>=3.4.1,<4.0.0
+accelerate
+peft
+bitsandbytes
+unsloth
+unsloth_zoo
+trl
+snac
+soundfile
+librosa
+pandas
+numpy
+scipy
