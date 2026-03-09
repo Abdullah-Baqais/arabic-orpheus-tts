@@ -46,8 +46,7 @@ This repository only contains the training/inference code, configuration, and de
 
 ## Fine tuned model
 
-If you want to try the model you will find it at:
-`Lokatsu/orpheus-arabic-tts-16bit`
+Available Here: [Abdullah-Baqais/orpheus-arabic-tts-16bit](https://huggingface.co/Abdullah-Baqais/orpheus-arabic-tts-16bit)
 ## Notes
 
 This project is intended for research and educational purposes. Please respect the terms of any upstream model and dataset licenses.
