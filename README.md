@@ -38,9 +38,17 @@ This repository only contains the training/inference code, configuration, and de
 - Hardware used: L40S
 - LoRA fine-tuning with Unsloth
 
-## Demo samples
+## 🔊 Demos
 
-See the `demos/` folder.
+### Demo 1
+Text:
+> مَرْحَبًا بِكُمْ فِي هَذَا النِّظَامِ الصَّوْتِيِّ الجَدِيدِ
+
+<audio controls>
+  <source src="https://github.com/Abdullah-Baqais/arabic-orpheus-tts/raw/main/demos/demo1.wav" type="audio/wav">
+</audio>
+
+---
 
 ## Fine tuned model
 
