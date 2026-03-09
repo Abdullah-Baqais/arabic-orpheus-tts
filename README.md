@@ -45,7 +45,7 @@ Text:
 > مَرْحَبًا بِكُمْ فِي هَذَا النِّظَامِ الصَّوْتِيِّ الجَدِيدِ
 
 <audio controls>
-  <source src="https://github.com/Abdullah-Baqais/arabic-orpheus-tts/raw/main/demos/Greetings.wav" type="audio/wav">
+  <source src="demos/Greetings.wav" type="audio/wav">
 </audio>
 
 ---
